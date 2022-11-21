@@ -14,6 +14,6 @@
         <li>brrainz.harmony</li>
         <li>Ludeon.RimWorld.Biotech</li>
     </loadAfter>
-    <manifestUri>https://raw.githubusercontent.com/TheTrueHonker/Honkers-Patches-and-Additions/latest/About/Manifest.xml</manifestUri>
+    <manifestUri>https://raw.githubusercontent.com/TheTrueHonker/Honkers-Patches-and-Additions/main/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/TheTrueHonker/Honkers-Patches-and-Additions/releases/latest</downloadUri>
 </Manifest>
