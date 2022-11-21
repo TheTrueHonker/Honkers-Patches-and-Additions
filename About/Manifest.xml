@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+    <identifier>net.honker.rimworld.mod.honkerspatchesandadditions</identifier>
+    <version>1.0.0</version>
+    <targetVersions>
+        <li>1.4.0</li>
+    </targetVersions>
+    <dependencies>
+        <li>brrainz.harmony</li>
+    </dependencies>
+    <incompatibleWith></incompatibleWith>
+    <loadBefore></loadBefore>
+    <loadAfter>
+        <li>brrainz.harmony</li>
+        <li>Ludeon.RimWorld.Biotech</li>
+    </loadAfter>
+    <manifestUri>https://raw.githubusercontent.com/TheTrueHonker/Honkers-Patches-and-Additions/latest/About/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/TheTrueHonker/Honkers-Patches-and-Additions/releases/latest</downloadUri>
+</Manifest>
